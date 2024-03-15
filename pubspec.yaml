@@ -4,6 +4,22 @@ description: "A new Flutter Project Structure and Skeleton using Clean-Architect
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
+# CREATE a new repository on the command line
+#
+#  echo "# Flutter-App-Clean-Architecture" >> README.md
+#  git init
+#  git add README.md
+#  git commit -m "first commit"
+#  git branch -M main
+#  git remote add origin https://github.com/69-69/Flutter-App-Clean-Architecture.git
+#  git push -u origin main
+
+# PUSH an existing repository from the command line
+#
+#  git remote add origin https://github.com/69-69/Flutter-App-Clean-Architecture.git
+#  git branch -M main
+#  git push -u origin main
+
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
